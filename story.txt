@@ -1,1 +1,2 @@
 Once upon a time, in a land of code, a new story began.
+This is the second line of the story from Github. Check to see if Git is being updated. 
